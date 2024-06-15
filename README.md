@@ -1,6 +1,6 @@
 # My Online-Shopping Project
 
-A Vue.js application for managing personal tasks and to-do lists.
+A small e-commerce application built with Vue.js, featuring data fetching from an API and state management using Pinia , Protect Routes using Gaurd .
 
 
 ## Installation
