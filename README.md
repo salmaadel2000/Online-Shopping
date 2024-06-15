@@ -2,13 +2,6 @@
 
 A Vue.js application for managing personal tasks and to-do lists.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
